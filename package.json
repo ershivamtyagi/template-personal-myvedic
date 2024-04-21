@@ -1,10 +1,11 @@
 {
   "scripts": {
+    "setup": "evershop install",
     "start": "evershop start",
     "build": "evershop build"
   },
   "dependencies": {
-    "@evershop/evershop": "^1.0.0-rc.3",
+    "@evershop/evershop": "^1.0.0-rc.7",
     "react-refresh": "^0.14.0"
   }
 }
